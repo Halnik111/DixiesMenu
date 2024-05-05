@@ -1,0 +1,8 @@
+<svg width="34" height="28" viewBox="0 0 34 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="burger">
+<path class="cross" id="cross_bottom" d="M6.1246 13.9227L27.1246 13.9227" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<path class="cross" id="cross_top" d="M6.72461 13.9227L27.7246 13.9227" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<path id="top" d="M2 2L32 2" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<path id="bottom" d="M2 26H32" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>
