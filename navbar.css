@@ -18,14 +18,17 @@ nav {
     top: 0;
     background-color: gray;
     color: black;
-    left: 0;
     width: 100vw;
     height: 100vh;
     z-index: 1;
     display: none;
+    flex-direction: column;
+    font-size: 22px;
+    gap: 7px;
     justify-content: center;
     align-items: center;
     overflow-y: hidden;
+    max-width: 768px;
 }
 
 #navbar_burger path {
@@ -33,17 +36,9 @@ nav {
     transition: 1s ease;
 }
 
-#cross_top {
-}
-
-.cross_top {
-
-}
-
-.top {
-
-}
-
-.bottom {
-
+.nav_menu_item_divider {
+    width: 100%;
+    margin: 1px 0;
+    background-color: black;
+    height: 2px;
 }
